@@ -1,6 +1,6 @@
-# 📺 cs-Kekik
+# 📺 cs-kekikanime
 
-Arşive alınmış projenin canlıya çekilmiş hali
+kafama göre eklentiler.
 
 ## 💾 Kurulum
 
