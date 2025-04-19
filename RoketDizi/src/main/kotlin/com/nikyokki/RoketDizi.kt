@@ -34,7 +34,7 @@ import org.jsoup.Jsoup
 import org.jsoup.nodes.Element
 
 class RoketDizi : MainAPI() {
-    override var mainUrl = "https://roketdizi.nl"
+    override var mainUrl = "https://roketdizi.tv"
     override var name = "RoketDizi"
     override val hasMainPage = true
     override var lang = "tr"
