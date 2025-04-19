@@ -10,7 +10,7 @@ import com.lagradost.cloudstream3.LoadResponse.Companion.addActors
 import com.lagradost.cloudstream3.LoadResponse.Companion.addTrailer
 
 class FullHDFilm : MainAPI() {
-    override var mainUrl              = "https://fullhdfilm.top"
+    override var mainUrl              = "https://fullhdfilm.cx"
     override var name                 = "FullHDFilm"
     override val hasMainPage          = true
     override var lang                 = "tr"
