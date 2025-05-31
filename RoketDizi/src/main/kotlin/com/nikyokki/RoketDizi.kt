@@ -29,7 +29,7 @@ import com.lagradost.cloudstream3.utils.loadExtractor
 import org.jsoup.nodes.Element
 
 class RoketDizi : MainAPI() {
-    override var mainUrl = "https://roketdizi.org"
+    override var mainUrl = "https://roketdizi.nl"
     override var name = "RoketDizi"
     override val hasMainPage = true
     override var lang = "tr"
