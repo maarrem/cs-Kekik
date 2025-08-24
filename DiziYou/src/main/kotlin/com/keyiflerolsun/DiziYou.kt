@@ -10,7 +10,7 @@ import com.lagradost.cloudstream3.LoadResponse.Companion.addActors
 import com.lagradost.cloudstream3.LoadResponse.Companion.addTrailer
 
 class DiziYou : MainAPI() {
-    override var mainUrl              = "https://www.diziyou13.com"
+    override var mainUrl              = "https://www.diziyou14.com"
     override var name                 = "DiziYou"
     override val hasMainPage          = true
     override var lang                 = "tr"
