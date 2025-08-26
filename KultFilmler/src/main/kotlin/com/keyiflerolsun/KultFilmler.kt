@@ -17,7 +17,7 @@ import org.jsoup.Jsoup
 import java.util.regex.Pattern
 
 class KultFilmler : MainAPI() {
-    override var mainUrl              = "https://kultfilmler.net"
+    override var mainUrl              = "https://kultfilmler.pro"
     override var name                 = "KultFilmler"
     override val hasMainPage          = true
     override var lang                 = "tr"
