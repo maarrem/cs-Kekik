@@ -9,7 +9,7 @@ import com.lagradost.cloudstream3.utils.*
 import kotlin.random.Random
 
 class KoreanTurk : MainAPI() {
-    override var mainUrl              = "https://www.koreanturk.com"
+    override var mainUrl              = "https://www.koreanturk.net"
     override var name                 = "KoreanTurk"
     override val hasMainPage          = true
     override var lang                 = "tr"
